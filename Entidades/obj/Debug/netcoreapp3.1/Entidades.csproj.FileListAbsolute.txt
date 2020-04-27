@@ -1,0 +1,7 @@
+C:\Users\x\source\repos\JuegoLaberinto\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+C:\Users\x\source\repos\JuegoLaberinto\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\x\source\repos\JuegoLaberinto\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+C:\Users\x\source\repos\JuegoLaberinto\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\JuegoLaberinto\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+C:\Users\x\source\repos\JuegoLaberinto\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+C:\Users\x\source\repos\JuegoLaberinto\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb

@@ -1,0 +1,11 @@
+C:\Users\x\source\repos\JuegoLaberinto\Business\bin\Release\netcoreapp3.1\Business.deps.json
+C:\Users\x\source\repos\JuegoLaberinto\Business\bin\Release\netcoreapp3.1\Business.dll
+C:\Users\x\source\repos\JuegoLaberinto\Business\bin\Release\netcoreapp3.1\Business.pdb
+C:\Users\x\source\repos\JuegoLaberinto\Business\bin\Release\netcoreapp3.1\Entidades.dll
+C:\Users\x\source\repos\JuegoLaberinto\Business\bin\Release\netcoreapp3.1\Entidades.pdb
+C:\Users\x\source\repos\JuegoLaberinto\Business\obj\Release\netcoreapp3.1\Business.csprojAssemblyReference.cache
+C:\Users\x\source\repos\JuegoLaberinto\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\JuegoLaberinto\Business\obj\Release\netcoreapp3.1\Business.AssemblyInfo.cs
+C:\Users\x\source\repos\JuegoLaberinto\Business\obj\Release\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\x\source\repos\JuegoLaberinto\Business\obj\Release\netcoreapp3.1\Business.dll
+C:\Users\x\source\repos\JuegoLaberinto\Business\obj\Release\netcoreapp3.1\Business.pdb
